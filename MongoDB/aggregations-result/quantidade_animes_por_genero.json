@@ -1,0 +1,178 @@
+[
+    {
+        "_id": "Comedy",
+        "quantidadeAnimes": 5640
+    },
+    {
+        "_id": "Action",
+        "quantidadeAnimes": 3572
+    },
+    {
+        "_id": "Fantasy",
+        "quantidadeAnimes": 2971
+    },
+    {
+        "_id": "Adventure",
+        "quantidadeAnimes": 2753
+    },
+    {
+        "_id": "Sci-Fi",
+        "quantidadeAnimes": 2462
+    },
+    {
+        "_id": "Kids",
+        "quantidadeAnimes": 2458
+    },
+    {
+        "_id": "Drama",
+        "quantidadeAnimes": 2457
+    },
+    {
+        "_id": "Shounen",
+        "quantidadeAnimes": 1915
+    },
+    {
+        "_id": "Music",
+        "quantidadeAnimes": 1863
+    },
+    {
+        "_id": "Romance",
+        "quantidadeAnimes": 1762
+    },
+    {
+        "_id": "Slice of Life",
+        "quantidadeAnimes": 1744
+    },
+    {
+        "_id": "School",
+        "quantidadeAnimes": 1567
+    },
+    {
+        "_id": "Supernatural",
+        "quantidadeAnimes": 1358
+    },
+    {
+        "_id": "Hentai",
+        "quantidadeAnimes": 1295
+    },
+    {
+        "_id": "Mecha",
+        "quantidadeAnimes": 1060
+    },
+    {
+        "_id": "Historical",
+        "quantidadeAnimes": 1051
+    },
+    {
+        "_id": "Magic",
+        "quantidadeAnimes": 1013
+    },
+    {
+        "_id": "Seinen",
+        "quantidadeAnimes": 805
+    },
+    {
+        "_id": "Ecchi",
+        "quantidadeAnimes": 740
+    },
+    {
+        "_id": "Sports",
+        "quantidadeAnimes": 679
+    },
+    {
+        "_id": "Mystery",
+        "quantidadeAnimes": 674
+    },
+    {
+        "_id": "Shoujo",
+        "quantidadeAnimes": 668
+    },
+    {
+        "_id": "Parody",
+        "quantidadeAnimes": 619
+    },
+    {
+        "_id": "Super Power",
+        "quantidadeAnimes": 600
+    },
+    {
+        "_id": "Military",
+        "quantidadeAnimes": 541
+    },
+    {
+        "_id": "Space",
+        "quantidadeAnimes": 475
+    },
+    {
+        "_id": "Demons",
+        "quantidadeAnimes": 453
+    },
+    {
+        "_id": "Horror",
+        "quantidadeAnimes": 434
+    },
+    {
+        "_id": "Dementia",
+        "quantidadeAnimes": 402
+    },
+    {
+        "_id": "Harem",
+        "quantidadeAnimes": 374
+    },
+    {
+        "_id": "Martial Arts",
+        "quantidadeAnimes": 367
+    },
+    {
+        "_id": "Game",
+        "quantidadeAnimes": 348
+    },
+    {
+        "_id": "Psychological",
+        "quantidadeAnimes": 322
+    },
+    {
+        "_id": "Police",
+        "quantidadeAnimes": 239
+    },
+    {
+        "_id": "Samurai",
+        "quantidadeAnimes": 199
+    },
+    {
+        "_id": "Vampire",
+        "quantidadeAnimes": 135
+    },
+    {
+        "_id": "Thriller",
+        "quantidadeAnimes": 120
+    },
+    {
+        "_id": "Cars",
+        "quantidadeAnimes": 117
+    },
+    {
+        "_id": "Josei",
+        "quantidadeAnimes": 93
+    },
+    {
+        "_id": "Shounen Ai",
+        "quantidadeAnimes": 91
+    },
+    {
+        "_id": "",
+        "quantidadeAnimes": 75
+    },
+    {
+        "_id": "Shoujo Ai",
+        "quantidadeAnimes": 73
+    },
+    {
+        "_id": "Yaoi",
+        "quantidadeAnimes": 40
+    },
+    {
+        "_id": "Yuri",
+        "quantidadeAnimes": 40
+    }
+]
